@@ -22,4 +22,8 @@ function getGameWidth(){
     return gameWidth; 
 }
 
+function foodColor(){
+    return foodColor;
+}
+
 
