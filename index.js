@@ -14,4 +14,12 @@ let foodX;
 let foodY;
 let score = 0;
 
+function getGameHeight(){
+    return gameHeight; 
+}
+
+function getGameWidth(){
+    return gameWidth; 
+}
+
 
